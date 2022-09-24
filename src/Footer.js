@@ -13,7 +13,7 @@ class Footer extends Component {
             <div className='box-Footer'>
                 <div>
                 <p>Created by Shiva Sheikholeslami 2022</p>
-                </div>
+                <div>
 
                 <div className='icons'>
                 {/* <a><i className='bi bi-facebook'></i></a> */}
