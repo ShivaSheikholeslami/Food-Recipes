@@ -20,7 +20,7 @@ class Footer extends Component {
                 <Icon icon="bi:facebook" className='blue'/>
                 <Icon icon ="bi:instagram" className='pink'/>
                 <Icon icon="bi:twitter"  className='blue'/>
-                
+                <p>salam</p>
                     {/* <i className="facebook"></i> */}
                 </div>
             </div>
